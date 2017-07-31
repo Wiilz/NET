@@ -2,7 +2,7 @@
 date: 2017-07-31 12:20:12+00:00
 layout: post
 title: Nginx下配置typecho出现"Access denied"
-thread: 166
+thread: 002
 categories: 日志
 tags: 博客
 ---
