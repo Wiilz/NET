@@ -5,7 +5,7 @@ title: Nginx下配置typecho出现"Access denied"
 thread: 166
 categories: 日志
 tags: 博客
-published: false
+published: true
 ---
 
 
