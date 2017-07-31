@@ -1,14 +1,13 @@
 ---
-date: 2017-07-31 12:34:12+00:00
+date: {}
 layout: post
 title: Nginx下配置typecho出现"Access denied"
 thread: 166
 categories: 日志
 tags: 博客
+published: false
 ---
-## Nginx下配置typecho出现"Access denied"的解决方法
 
-</br>
 
 如果你也尝试用在Nginx环境配置typecho的博客，当按照 [typecho文档](http://docs.typecho.org/doku.php) 在服务器上传好安装文件，按步骤安装成功后。查看网站主页点击其他链接时，出现 **"Access denied"** 提示
 
@@ -24,4 +23,4 @@ oneinstack中` php.ini ` 默认路径： **/usr/local/php/etc/php.ini** ，将�
 
 	注：只有Nginx下配置typecho才会出现这种情况，如果是Apache服务的话不会出现此类错误。
 
-2017-6-9 
+2017-6-9
