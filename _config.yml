@@ -1,15 +1,14 @@
 markdown: kramdown
 permalink: /:title/
-url: http://leungze.win
-name: Wiilz.NET
-author: Wiilz
+url: http://wiilz.cn
+name: Wiilz.CN
+author: wiilz
 qq: 
 email: rayleignze@gmail.com
-duoshuo: 
-beian: 
+beian: 鲁ICP备17033500号
 cnzz: 
 weibo: 
-github: Wiilz
+github: wiilz
 safe: true
 paginate: 20
 about: "这里是 Wiilz 的个人博客,使用Jekyll @ GitHub。<br /><br />新的折腾，新的起点。<br /><br />切换到分类模可以更快地找到感兴趣的内容，欢迎观赏、建议、拍砖……"
